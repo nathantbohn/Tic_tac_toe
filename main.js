@@ -14,3 +14,4 @@ function createBoard() {
 createBoard();
 
 //left off at 9:00. There is a problem with the border box, check CSS
+//reminder not to neglect this project
